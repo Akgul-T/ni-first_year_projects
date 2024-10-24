@@ -1,5 +1,4 @@
-//Akgul Turtbayeva
-//ID H00470195
+
 public class OhmsLawLab {
     private Resistor resistor;
     private PowerSupply powerSupply;
